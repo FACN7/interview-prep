@@ -4,7 +4,7 @@
 
 Write a function that takes in a string containing different types of brackets. Eg: `'({[]})'`
 
-Your function should check whether the brackets open and close in a valid order, and return true or false. Eg:
+Your function should check whether the brackets open and close in a valid order, and return `true` or `false`. Eg:
 
 ```javascript
 bracketsCheck('()') // returns true
@@ -18,7 +18,7 @@ bracketsCheck('(') // returns false
 bracketsCheck('(){') // returns false
 bracketsCheck('}}()') // returns false
 bracketsCheck('([)]') // returns false
-bracketsCheck('({[})') // returns true
+bracketsCheck('({[})') // returns false
 ```
 
 You will need to:
