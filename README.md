@@ -4,6 +4,7 @@ A collection of questions, exercises and resources to help students prepare for 
 ## Exercises
 - [brackets-check](https://github.com/FACN7/interview-prep/tree/master/exercises/brackets-check)
 - [is-palindrome](https://github.com/FACN7/interview-prep/tree/master/exercises/is-palindrome)
+- [linked-list](https://github.com/FACN7/interview-prep/tree/master/exercises/linked-list)
 
 ## Resources 
 - [Data structures in JS](https://github.com/jamiecoe/data-structures)
