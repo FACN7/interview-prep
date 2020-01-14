@@ -35,6 +35,12 @@ node3.next = null // node3 is the Tail, so it doesn't have a next
 
 ## Exercise 1
 
+**Note:** *An understanding of [ES6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) is needed to do this exercise.* 
+
 Create a proper Linked List implementation using JavaScript. 
 
-The template files 
+The setup files are in the [exercise-1](https://github.com/FACN7/interview-prep/tree/master/exercises/linked-list/exercise-1/) directory:
+- Write your code in `index.js` (there is already a basic template)
+- Run the tests in `test.js` to check your code is correct
+- Use `directions.html` to see what properties and methods should be present on your class
+- If you are really stuck, look at the solution file in `solutions/solution.js`
