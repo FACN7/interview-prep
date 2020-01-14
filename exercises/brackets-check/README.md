@@ -24,7 +24,6 @@ bracketsCheck("({[})") // returns false
 You will need to:
 - Create a node project
 - Write tests to prove your code works
-- Use `console.time()` and `console.endTime()` to measure the execution time of your code (see docs [here](https://nodejs.org/api/console.html#console_console_time_label))
 
 <details><summary>HINT (don't read straight away)</summary>
 <p>
