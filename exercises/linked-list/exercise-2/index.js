@@ -1,0 +1,3 @@
+function deleteLastOccurrence(key) {
+  //write your code here, dont forget to handle all edge cases...
+}
