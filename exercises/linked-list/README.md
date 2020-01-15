@@ -82,3 +82,23 @@ The setup files are in the [exercise-3](https://github.com/FACN7/interview-prep/
 Have you tried the <a href="https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/">fast & slow</a> method?
 </p>
 </details>
+
+## Exercise 4
+
+What's a Circular Linked List?
+
+![](CircularLL.jpeg)
+
+This is a Linked List where there is no end 😱The nodes refer to each other in a loop. Clearly this is dangerous as lots of our LL methods loop through the chain. If the LL is Circular, this will cause an infinite loop.
+
+Write a function `isCircular()` that takes an instance of a LinkedList and checks whether it is a Circular Linked List. Your function should return `true` or `false`
+
+- Write your code in `index.js` (there is already a basic template)
+- Run `npm run test:exercise4` to check your code is correct
+- If you are really stuck, look at the solution file in `solutions/solution.js`
+
+<details><summary>HINT (don't read straight away)</summary>
+<p>
+The <a href="https://stackoverflow.com/questions/20353835/fastest-way-to-prove-linked-list-is-circular-in-python">fast & slow</a> method could be useful again...
+</p>
+</details>
