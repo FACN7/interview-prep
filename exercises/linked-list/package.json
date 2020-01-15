@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:exercise1": "jest exercise-1/test.js",
+    "test:exercise2": "jest exercise-2/test.js",
     "test:exercise3": "jest exercise-3/test.js"
   },
   "keywords": [],
