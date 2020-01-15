@@ -144,6 +144,17 @@ class LinkedList {
     }
   }
 
+  print() {
+    let current = this.head;
+    let list = "";
+    while (current) {
+      list += current.data + "-->";
+      current = current.next;
+    }
+
+    console.log(list + "null");
+  }
+
   // read up on iterators and generators in JS to understand this
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
   *[Symbol.iterator]() {
