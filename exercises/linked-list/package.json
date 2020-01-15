@@ -1,0 +1,17 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "(This definition and exercise has been taken from [Coding Interview Bootcamp - Algorithms and Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure) by Stephen Grider).",
+  "main": "index.js",
+  "scripts": {
+    "test:exercise1": "jest exercise-1/test.js",
+    "test:exercise2": "jest exercise-2/test.js",
+    "test:exercise3": "jest exercise-3/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
