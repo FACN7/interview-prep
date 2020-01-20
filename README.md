@@ -22,6 +22,10 @@ If they ask you upfront about salary:
 - If you have to give a number - According to Shireen, the industry standard is 14-16k, or 12-14k for smaller companies. Never go lower than 11k. Also make sure you talk to Shireen and Dana for advice when negotiating a salary.    
 
 ## Resources 
-- [Data structures in JS](https://github.com/jamiecoe/data-structures)
 - Cracking the Coding Interview (pdf available [here](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf))
 - [Coding Interview Bootcamp - Algorithms and Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure) on Udemy (Very good course! Taught in JS) 
+- [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - A free online Computer Science intro course from Harvard university
+- [Rithm School Computer Science Fundamentals with JavaScript](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals) - free course teaching BigO notation, data structures and search/sort algorithms. 
+- [Rithm School Terminal and UNIX](https://www.rithmschool.com/courses/terminal) - free course with advanced terminal BASH commands
+- [Code signal](https://codesignal.com/) - fun website with technical challenges for preparing for interviews.
+- [Data structures in JS](https://github.com/jamiecoe/data-structures)
